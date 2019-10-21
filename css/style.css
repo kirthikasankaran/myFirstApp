@@ -8,3 +8,6 @@ h3 {
 p{
   color: #4a4a4a;
 }
+li{
+  list-style: none;
+}
